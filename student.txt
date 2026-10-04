@@ -1,3 +1,4 @@
 Gopika
 bioinfo
 mahe
+Msc bioinfomatics
